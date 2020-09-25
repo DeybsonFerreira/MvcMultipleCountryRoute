@@ -1,0 +1,156 @@
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\MvcChangeView_SameRoute.dll.config
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\MvcChangeView_SameRoute.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\MvcChangeView_SameRoute.pdb
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\csc.exe
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\csc.exe.config
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\csc.rsp
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\csi.exe
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\csi.exe.config
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\csi.rsp
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.AppContext.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Console.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.IO.Compression.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Net.Http.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Net.Sockets.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.ValueTuple.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Xml.XPath.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\vbc.exe
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\vbc.exe.config
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\vbc.rsp
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\VBCSCompiler.exe
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\Antlr3.Runtime.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\Newtonsoft.Json.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Helpers.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Mvc.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Optimization.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Razor.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.WebPages.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.WebPages.Razor.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\WebGrease.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Helpers.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Mvc.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Optimization.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.Razor.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.WebPages.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\System.Web.WebPages.Razor.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\Newtonsoft.Json.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\Antlr3.Runtime.pdb
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.csprojAssemblyReference.cache
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.csproj.CopyComplete
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.dll
+C:\Users\deybson.ferreira\source\repos\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.pdb
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\MvcChangeView_SameRoute.dll.config
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\MvcChangeView_SameRoute.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\MvcChangeView_SameRoute.pdb
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\csc.exe
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\csc.exe.config
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\csc.rsp
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\csi.exe
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\csi.exe.config
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\csi.rsp
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.AppContext.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Console.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.IO.Compression.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Net.Http.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Net.Sockets.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.ValueTuple.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Xml.XPath.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\vbc.exe
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\vbc.exe.config
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\vbc.rsp
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\VBCSCompiler.exe
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\Antlr3.Runtime.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\Newtonsoft.Json.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Helpers.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Mvc.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Optimization.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Razor.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.WebPages.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.WebPages.Razor.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\WebGrease.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Helpers.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Mvc.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Optimization.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.Razor.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.WebPages.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\System.Web.WebPages.Razor.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\Newtonsoft.Json.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\Antlr3.Runtime.pdb
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.csprojAssemblyReference.cache
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.csproj.CopyComplete
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.dll
+C:\Users\deybson.ferreira\Documents\GIT PROJECT\MvcMultipleCountryRoute\MvcChangeView_SameRoute\obj\Debug\MvcChangeView_SameRoute.pdb
